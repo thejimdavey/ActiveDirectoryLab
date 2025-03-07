@@ -29,8 +29,7 @@ Adding myself as a user/administrator. RAS/NAT allows client to be on private vi
 <img width="1326" alt="Image" src="https://github.com/user-attachments/assets/5ac6324a-e20b-4856-9627-d23124cfb0e1" /><br />
  <img width="1342" alt="Image" src="https://github.com/user-attachments/assets/c8f5fd24-ee0a-4ea5-84c1-c4fd4aa4a85a" /><br />
 DHCP scope applied, DNS is setup:  <br/>
-<img src="[https://imgur.com/a/pic4-6JVEnWR" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<img width="1342" alt="Image" src="https://github.com/user-attachments/assets/6377c076-eb37-476f-8ccd-059f44c33e42" /><br />
 <br />
 Create client computer and join to the domain. PowerShell script will be used to create users in Active Directory. Powershell script for user generation from a text file of randomly generated names:  <br/>
 <img src="https://imgur.com/a/pic5-7OhjTW9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
