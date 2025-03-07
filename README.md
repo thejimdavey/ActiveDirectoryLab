@@ -35,8 +35,7 @@ Create client computer and join to the domain. PowerShell script will be used to
 <img width="1343" alt="Image" src="https://github.com/user-attachments/assets/6e50e382-791f-497f-9f2d-656ecf705ccc" /><br />
  <img width="1341" alt="Image" src="https://github.com/user-attachments/assets/2335961e-16f0-4026-977e-75f0e0158af7" /><br />
 Users generated from name script:  <br/>
-<img src="https://imgur.com/a/pic7-I1GJMeh" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<img width="1343" alt="Image" src="https://github.com/user-attachments/assets/69359a54-1c72-47ad-8240-f2698e9a9c82" /><br />
 <br />
 Create Windows 10 client machine on VirtualBox and run ipconfig and ping in command prompt:  <br/>
 <img src="https://imgur.com/a/pic8-J3Sy7cF" height="80%" width="80%" alt="Disk Sanitization Steps"/>
