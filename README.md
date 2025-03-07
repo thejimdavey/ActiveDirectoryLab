@@ -26,9 +26,7 @@ Assigning IP address to internal NIC card, loopback address for DNS server:  <br
 <img width="1327" alt="Image" src="https://github.com/user-attachments/assets/8a9236bc-cb2c-4fbd-9293-0e8864220868" /><br />
 <br />
 Adding myself as a user/administrator. RAS/NAT allows client to be on private virtual network but still able to access the internet through the Domain Controller: <br/>
-<img src="https://imgur.com/a/pic2-n3bSyZH" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://imgur.com/a/pic3-6gNYucP" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<img width="1326" alt="Image" src="https://github.com/user-attachments/assets/5ac6324a-e20b-4856-9627-d23124cfb0e1" /><br />
 <br />
 DHCP scope applied, DNS is setup:  <br/>
 <img src="[https://imgur.com/a/pic4-6JVEnWR" height="80%" width="80%" alt="Disk Sanitization Steps"/>
