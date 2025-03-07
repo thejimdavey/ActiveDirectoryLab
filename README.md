@@ -38,9 +38,7 @@ Users generated from name script:  <br/>
 <img width="1343" alt="Image" src="https://github.com/user-attachments/assets/69359a54-1c72-47ad-8240-f2698e9a9c82" /><br />
 <br />
 Create Windows 10 client machine on VirtualBox and run ipconfig and ping in command prompt:  <br/>
-<img src="https://imgur.com/a/pic8-J3Sy7cF" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://imgur.com/a/pic3-6gNYucP" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<img width="1336" alt="Image" src="https://github.com/user-attachments/assets/c2e4cda7-9960-412c-b300-fac9a56492cb" /><br />
 <br />
 Lease provided to client computer:  <br/>
 <img src="https://imgur.com/a/pic10-Qsjugc3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
