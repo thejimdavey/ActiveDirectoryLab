@@ -18,7 +18,7 @@ Project consists of running two different virtual machines on Oracle Virtual Box
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Diagram: <br/>
+Diagram from Josh Madakor's Youtube tutorial: <br/>
 <img width="1359" alt="Image" src="https://github.com/user-attachments/assets/ee94a788-2d53-417e-b482-d2fb44a50861" />
 <br />
 <br />
@@ -43,9 +43,8 @@ Create Windows 10 client machine on VirtualBox and run ipconfig and ping in comm
 Lease provided to client computer:  <br/>
 <img width="1331" alt="Image" src="https://github.com/user-attachments/assets/2d9703ee-b089-4814-8090-c09a484005b9" /><br />
 <br />
-Confirmation the client computer has been added to the domain:  <br/>
-<img src="https://imgur.com/a/pic11-uckKfhZ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Confirmation the client computer has been added to the domain and lab conclusion:  <br/>
+<img width="1336" alt="Image" src="https://github.com/user-attachments/assets/c9b5770e-da6c-4680-8fbf-52a1660e57da" /></p>
 
 <!--
  ```diff
