@@ -33,7 +33,7 @@ DHCP scope applied, DNS is setup:  <br/>
 <br />
 Create client computer and join to the domain. PowerShell script will be used to create users in Active Directory. Powershell script for user generation from a text file of randomly generated names:  <br/>
 <img width="1343" alt="Image" src="https://github.com/user-attachments/assets/6e50e382-791f-497f-9f2d-656ecf705ccc" /><br />
-<br />
+ <img width="1341" alt="Image" src="https://github.com/user-attachments/assets/2335961e-16f0-4026-977e-75f0e0158af7" /><br />
 Users generated from name script:  <br/>
 <img src="https://imgur.com/a/pic7-I1GJMeh" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
