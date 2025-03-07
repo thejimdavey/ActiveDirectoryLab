@@ -19,7 +19,7 @@ Project consists of running two different virtual machines on Oracle Virtual Box
 
 <p align="center">
 Diagram: <br/>
-<img src="https://imgur.com/a/rQe0mRP" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1359" alt="Image" src="https://github.com/user-attachments/assets/ee94a788-2d53-417e-b482-d2fb44a50861" />
 <br />
 <br />
 Assigning IP address to internal NIC card, loopback address for DNS server:  <br/>
